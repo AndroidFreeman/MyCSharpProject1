@@ -1,0 +1,13 @@
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.exe
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.deps.json
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.runtimeconfig.json
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.runtimeconfig.dev.json
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.dll
+E:\Project\C_Sharp_Code\3_Predefine\bin\Debug\netcoreapp3.1\3_Predefine.pdb
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.csprojAssemblyReference.cache
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.AssemblyInfoInputs.cache
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.AssemblyInfo.cs
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.csproj.CoreCompileInputs.cache
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.dll
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.pdb
+E:\Project\C_Sharp_Code\3_Predefine\obj\Debug\netcoreapp3.1\3_Predefine.genruntimeconfig.cache

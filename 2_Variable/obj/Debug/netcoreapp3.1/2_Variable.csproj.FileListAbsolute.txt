@@ -1,0 +1,13 @@
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.AssemblyInfoInputs.cache
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.AssemblyInfo.cs
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.csproj.CoreCompileInputs.cache
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.csprojAssemblyReference.cache
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.exe
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.deps.json
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.runtimeconfig.json
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.runtimeconfig.dev.json
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.dll
+E:\Project\C_Sharp_Code\2_Variable\bin\Debug\netcoreapp3.1\2_Variable.pdb
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.dll
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.pdb
+E:\Project\C_Sharp_Code\2_Variable\obj\Debug\netcoreapp3.1\2_Variable.genruntimeconfig.cache

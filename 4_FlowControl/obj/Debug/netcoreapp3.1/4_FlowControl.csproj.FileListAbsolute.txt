@@ -1,0 +1,13 @@
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.csprojAssemblyReference.cache
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.AssemblyInfoInputs.cache
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.AssemblyInfo.cs
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.csproj.CoreCompileInputs.cache
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.exe
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.deps.json
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.runtimeconfig.json
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.runtimeconfig.dev.json
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.dll
+E:\Project\C_Sharp_Code\4_FlowControl\bin\Debug\netcoreapp3.1\4_FlowControl.pdb
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.dll
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.pdb
+E:\Project\C_Sharp_Code\4_FlowControl\obj\Debug\netcoreapp3.1\4_FlowControl.genruntimeconfig.cache

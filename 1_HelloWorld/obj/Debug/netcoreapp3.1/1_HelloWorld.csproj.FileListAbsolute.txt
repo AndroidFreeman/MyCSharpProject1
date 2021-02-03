@@ -1,0 +1,13 @@
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.csprojAssemblyReference.cache
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.AssemblyInfoInputs.cache
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.AssemblyInfo.cs
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.csproj.CoreCompileInputs.cache
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.exe
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.deps.json
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.runtimeconfig.json
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.runtimeconfig.dev.json
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.dll
+E:\Project\C_Sharp_Code\1_HelloWorld\bin\Debug\netcoreapp3.1\1_HelloWorld.pdb
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.dll
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.pdb
+E:\Project\C_Sharp_Code\1_HelloWorld\obj\Debug\netcoreapp3.1\1_HelloWorld.genruntimeconfig.cache
